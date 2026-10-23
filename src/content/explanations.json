@@ -1,0 +1,22 @@
+{
+  "coins.start": "V skrinji je {start:kovanec|kovanca|kovanci|kovancev}.",
+  "coins.add": "Brezzobi prinese še {change:kovanec|kovanca|kovance|kovancev}.",
+  "coins.remove": "Pirat vzame {change:kovanec|kovanca|kovance|kovancev}.",
+  "coins.count": "Zdaj preštej kovance v skrinji, enega za drugim.",
+  "equation": "{a} {op} {b} = {result}",
+  "equation.open": "{a} {op} {b} = ?",
+  "split": "Število {b} razdeli na desetice in enice: {tens} in {ones}.",
+  "compare.tens": "Primerjaj {a} in {b}. Najprej poglej desetice.",
+  "compare.ones": "Če so desetice enake, poglej še enice. Manj korakov pomeni bližje.",
+  "compare.solutionCloser": "{result} je najmanj korakov, zato je ta otok bližje.",
+  "compare.solutionFarther": "{result} je največ korakov, zato je ta otok dlje.",
+  "seq.stepUp": "Vsako število je za {step} večje od prejšnjega.",
+  "seq.stepDown": "Vsako število je za {step} manjše od prejšnjega.",
+  "seq.before": "Poglej število tik pred praznim mestom: {before}.",
+  "groups.count": "Imamo {groups:skupino|skupini|skupine|skupin} po {perGroup}.",
+  "groups.repeat": "Seštej vse skupine: {repeated}.",
+  "groups.solution": "{a} × {b} = {result}",
+  "share.deal": "Razdeli {total} rib med {parts:zmaja|zmaja|zmaje|zmajev}: vsakemu po eno, dokler jih ne zmanjka.",
+  "share.check": "Preveri: vsi zmaji imajo enako rib, skupaj pa jih je {total}.",
+  "share.solution": "{total} : {parts} = {result}, ker je {parts} × {result} = {total}."
+}

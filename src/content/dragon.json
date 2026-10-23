@@ -1,0 +1,64 @@
+{
+  "stages": {
+    "1": { "name": "Mladiček", "description": "Brezzobi je majhen in radoveden. Vse ga zanima." },
+    "2": { "name": "Radovednež", "description": "Brezzobi je zrasel in si upa leteti čez zaliv." },
+    "3": { "name": "Letalec", "description": "Brezzobi leti visoko nad oblaki in vidi vse otoke." },
+    "4": {
+      "name": "Lovec na uganke",
+      "description": "Brezzobi ujame vsako uganko, še preden pade v morje."
+    },
+    "5": {
+      "name": "Modri zmaj akademije",
+      "description": "Brezzobi je pravi učitelj. Drugi zmaji ga prosijo za nasvet."
+    }
+  },
+  "abilities": {
+    "addsub-2": {
+      "name": "Iskrice",
+      "description": "Brezzobi zna bruhati iskrice, ki štejejo kovance."
+    },
+    "addsub-3": { "name": "Zlati nos", "description": "Brezzobi zavoha zaklad skozi pesek." },
+    "addsub-4": {
+      "name": "Skok čez desetico",
+      "description": "Brezzobi preskoči desetico v enem zamahu."
+    },
+    "compare-2": {
+      "name": "Ostre oči",
+      "description": "Brezzobi vidi skozi meglo do najbližjega otoka."
+    },
+    "compare-3": {
+      "name": "Zvezdni ritem",
+      "description": "Brezzobi leti v ritmu števil po 2, 5 in 10."
+    },
+    "compare-4": {
+      "name": "Bralec zemljevidov",
+      "description": "Brezzobi najde manjkajočo pot na vsakem zemljevidu."
+    },
+    "muldiv-2": {
+      "name": "Hitri ribič",
+      "description": "Brezzobi ulovi ribe po dve, po pet in po deset hkrati."
+    },
+    "muldiv-3": {
+      "name": "Široka krila",
+      "description": "Brezzobi nosi tri ali štiri ribe pod vsakim krilom."
+    },
+    "muldiv-4": {
+      "name": "Pravični delilec",
+      "description": "Brezzobi razdeli hrano tako, da je vsak zmaj zadovoljen."
+    }
+  },
+  "book": {
+    "addsub-1": "Znaš seštevati in odštevati do 10.",
+    "addsub-2": "Znaš seštevati in odštevati do 20.",
+    "addsub-3": "Znaš seštevati in odštevati do 100 po deseticah in enicah.",
+    "addsub-4": "Znaš seštevati in odštevati do 100 tudi čez desetico.",
+    "compare-1": "Znaš primerjati števila do 20.",
+    "compare-2": "Znaš primerjati števila do 100.",
+    "compare-3": "Znaš šteti v skokih po 2, 5 in 10.",
+    "compare-4": "Znaš najti manjkajoče število v zaporedju.",
+    "muldiv-1": "Znaš šteti enake skupine.",
+    "muldiv-2": "Znaš poštevanko 2, 5 in 10.",
+    "muldiv-3": "Znaš poštevanko 3 in 4.",
+    "muldiv-4": "Znaš razdeliti na enake dele."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "viki": {
+    "name": "Viki",
+    "description": "Iznajdljiv in premišljen. Zmaje razume bolje kot kdorkoli na otoku.",
+    "tone": "Premisli in poišči strategijo.",
+    "greeting": "Živijo! Sem Viki. Skupaj bova poiskala pametno pot do rešitve."
+  },
+  "smrkljasti": {
+    "name": "Smrkljasti",
+    "description": "Pogumen in tekmovalen. Rad je prvi, a se uči, da glava zmore več kot mišice.",
+    "tone": "Moč ne nadomesti razmišljanja.",
+    "greeting": "Hej! Sem Smrkljasti. Pokaživa, kaj zmore pogumna glava!"
+  },
+  "kamikazi": {
+    "name": "Kamikazi",
+    "description": "Drzna, radovedna in ustvarjalna. Vedno najde pot, na katero nihče ne pomisli.",
+    "tone": "Poskusi drugačno pot.",
+    "greeting": "Ojla! Sem Kamikazi. Vsaka uganka ima skrivni prehod. Poiščiva ga!"
+  }
+}

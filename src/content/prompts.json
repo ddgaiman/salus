@@ -1,0 +1,11 @@
+{
+  "addsub.add": "V skrinji je {a:kovanec|kovanca|kovanci|kovancev}. Brezzobi prinese še {b:kovanec|kovanca|kovance|kovancev}. Koliko kovancev je zdaj v skrinji?",
+  "addsub.sub": "V skrinji je {a:kovanec|kovanca|kovanci|kovancev}. Pirat vzame {b:kovanec|kovanca|kovance|kovancev}. Koliko kovancev ostane?",
+  "compare.closer": "Do enega otoka je {a:korak|koraka|koraki|korakov}, do drugega {b:korak|koraka|koraki|korakov}. Kateri otok je bližje?",
+  "compare.farther": "Do enega otoka je {a:korak|koraka|koraki|korakov}, do drugega {b:korak|koraka|koraki|korakov}. Kateri otok je dlje?",
+  "compare.next": "Brezzobi skače s skale na skalo. Katero število pride naslednje?",
+  "compare.missing": "Na zemljevidu manjka ena številka. Katera?",
+  "muldiv.groups": "Zmajev je {a}. Vsak dobi {b:ribo|ribi|ribe|rib}. Koliko rib potrebujemo?",
+  "muldiv.times": "Zmajev je {a}. Vsak dobi {b:ribo|ribi|ribe|rib}. Koliko rib potrebujemo?",
+  "muldiv.share": "Imamo {total:ribo|ribi|ribe|rib}. Razdeli jih enako med {parts:zmaja|zmaja|zmaje|zmajev}. Koliko rib dobi vsak?"
+}

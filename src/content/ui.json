@@ -1,0 +1,118 @@
+{
+  "appName": "Zmajska akademija ugank",
+  "intro": {
+    "greeting": "Živjo! To je Zmajska akademija ugank. Brezzobi te že čaka.",
+    "start": "Začni"
+  },
+  "heroSelect": {
+    "title": "Izberi svojega junaka",
+    "choose": "Izberi",
+    "listen": "Poslušaj opis"
+  },
+  "map": {
+    "title": "Zemljevid otokov",
+    "speech": "Izberi otok, kamor bosta poletela z Brezzobim.",
+    "locked": "Zaklenjeno. Ta otok se odpre, ko osvojiš spretnost.",
+    "parentKey": "Starševski kotiček",
+    "dragonBook": "Knjiga zmajev",
+    "toothlessHere": "Brezzobi je tukaj",
+    "stage": "Stopnja Brezzobega"
+  },
+  "missionIntro": {
+    "go": "Gremo",
+    "back": "Nazaj na zemljevid"
+  },
+  "game": {
+    "hint": "Namig",
+    "speaker": "Poslušaj nalogo",
+    "check": "Preveri",
+    "delete": "Briši",
+    "digit": "Številka {n}",
+    "answer": "Tvoj odgovor",
+    "progress": "Naloga {n} od {total}",
+    "choice": "Izberi {n}",
+    "chest": "Skrinja",
+    "coin": "Kovanec",
+    "coinsLeft": "Kovanci zunaj skrinje",
+    "dragCoins": "Kovance lahko vlečeš ali se jih dotakneš.",
+    "island": "Otok, {n:korak|koraka|koraki|korakov}",
+    "dragon": "Zmaj {n}",
+    "fish": "Riba",
+    "fishPile": "Ribe za razdelitev",
+    "giveFish": "Daj ribo zmaju {n}",
+    "fishCount": "{n:riba|ribi|ribe|rib}",
+    "hole": "Prazno mesto",
+    "try": "Poskusim",
+    "solutionTry": "Zdaj vpiši odgovor sam.",
+    "review": "Ponovimo"
+  },
+  "feedback": {
+    "firstTry": {
+      "viki": [
+        "Odlično premišljeno!",
+        "Odlična strategija!",
+        "Tako se dela, premišljeno in natančno."
+      ],
+      "smrkljasti": ["Bum! Pravilno!", "Pogumno in pravilno!", "To je bil pravi junaški račun!"],
+      "kamikazi": ["Ha, našla sva pot!", "Juhu, uspelo je!", "Super izvirno!"]
+    },
+    "afterHelp": {
+      "viki": ["Vztrajnost se je izplačala. Bravo!", "Namig je pomagal. Dobra poteza!"],
+      "smrkljasti": ["Brez obupa do cilja. To je pravi pogum!", "Vidiš, z glavo gre!"],
+      "kamikazi": ["Drugačna pot je delovala!", "Poskusila sva znova in uspelo je!"]
+    }
+  },
+  "outcome": {
+    "title": "Misija opravljena!",
+    "newAbility": "Nova sposobnost Brezzobega",
+    "newIsland": "Nov otok je odklenjen",
+    "grew": "Brezzobi je zrasel",
+    "bookEntry": "V knjigo zmajev",
+    "toMap": "Na zemljevid"
+  },
+  "break": {
+    "title": "Se vidiva jutri",
+    "text": "Brezzobi je utrujen in sladko spi. Danes je bilo veliko učenja. Uganke te počakajo do jutri.",
+    "sleeping": "Brezzobi spi"
+  },
+  "book": {
+    "title": "Knjiga zmajev",
+    "empty": "Knjiga je še prazna. Po prvi misiji se tu pojavi prvi zapis.",
+    "abilities": "Sposobnosti Brezzobega",
+    "back": "Nazaj na zemljevid"
+  },
+  "parent": {
+    "gateTitle": "Samo za odrasle",
+    "gateQuestion": "Koliko je {a} × {b}?",
+    "gateWrong": "To ni pravilno. Poskusite znova.",
+    "enter": "Vstopi",
+    "close": "Zapri",
+    "title": "Starševski kotiček",
+    "skills": "Spretnosti",
+    "level": "Raven {n} od 4",
+    "mastered": "Osvojeno",
+    "success": "Uspešnost prvega poskusa (zadnjih 10): {n} %",
+    "noData": "Še ni podatkov.",
+    "missionsToday": "Misije danes: {n}",
+    "settings": "Nastavitve",
+    "missionsBeforeBreak": "Misije pred premorom",
+    "decrease": "Manj misij",
+    "increase": "Več misij",
+    "voice": "Glas",
+    "voiceTts": "Sinteza govora",
+    "voiceRecorded": "Posnetki",
+    "changeHero": "Zamenjaj junaka",
+    "reset": "Ponastavi napredek",
+    "resetConfirm": "Res želite izbrisati ves napredek? Nastavitve ostanejo.",
+    "resetYes": "Da, ponastavi",
+    "resetNo": "Prekliči",
+    "noticeCorrupt": "Shranjenih podatkov ni bilo mogoče prebrati, zato se je igra začela znova. Varnostna kopija je shranjena v brskalniku.",
+    "noticeUnknownVersion": "Shranjeni podatki so iz neznane različice igre, zato se je igra začela znova. Varnostna kopija je shranjena v brskalniku.",
+    "noticeDismiss": "Razumem",
+    "skillNames": {
+      "addsub": "Seštevanje in odštevanje",
+      "compare": "Primerjanje in zaporedja",
+      "muldiv": "Množenje in deljenje"
+    }
+  }
+}

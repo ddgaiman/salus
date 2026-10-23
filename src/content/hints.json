@@ -1,0 +1,152 @@
+{
+  "addsub": {
+    "1": {
+      "1": {
+        "viki": "Skoraj! Premisliva: ali se kovancev v skrinji poveča ali zmanjša? Preštej jih s prstom.",
+        "smrkljasti": "Ne tako hitro, junak! Najprej poglej, ali kovanci pridejo ali odidejo. Potem štej.",
+        "kamikazi": "Poskusiva drugače: premikaj kovance s prstom in štej na glas."
+      },
+      "2": {
+        "viki": "Poglejva skupaj, korak za korakom.",
+        "smrkljasti": "Tudi največji junaki včasih vadijo. Poglej, kako gre.",
+        "kamikazi": "Pokažem ti skrivni trik s kovanci."
+      }
+    },
+    "2": {
+      "1": {
+        "viki": "Dobra pot. Namig: najprej dopolni do 10, nato dodaj ali odvzemi ostanek.",
+        "smrkljasti": "Pogum velja! Zdaj pa pamet: skoči najprej do 10, potem naprej.",
+        "kamikazi": "Kaj če greš čez 10 v dveh skokih? Najprej do 10, potem še ostanek."
+      },
+      "2": {
+        "viki": "Razdeliva račun na dva manjša koraka.",
+        "smrkljasti": "Brezzobi ti pokaže, kako se to naredi brez napora.",
+        "kamikazi": "Dva majhna skoka sta lažja kot en velik. Poglej."
+      }
+    },
+    "3": {
+      "1": {
+        "viki": "Skoraj. Računaj posebej desetice in posebej enice.",
+        "smrkljasti": "Ne prehitro! Desetice k deseticam, enice k enicam.",
+        "kamikazi": "Razdeli števila na desetice in enice, kot ločiš kovance od biserov."
+      },
+      "2": {
+        "viki": "Najprej desetice, nato enice. Poglejva.",
+        "smrkljasti": "Tako delajo pravi računarji: po delih.",
+        "kamikazi": "Razstaviva število na koščke in ga sestaviva nazaj."
+      }
+    },
+    "4": {
+      "1": {
+        "viki": "Pazi: enice gredo čez deset. Najprej dodaj ali odvzemi desetice, nato enice.",
+        "smrkljasti": "Ta je zahtevna, ampak ti zmoreš. Desetice najprej, enice potem.",
+        "kamikazi": "Skrivni prehod: enice prestopijo desetico. Računaj v dveh skokih."
+      },
+      "2": {
+        "viki": "Ta račun prestopi desetico. Pojdiva po korakih.",
+        "smrkljasti": "Tudi Brezzobi je to moral vaditi. Poglej, kako gre.",
+        "kamikazi": "Pokažem ti pot čez desetico, skok za skokom."
+      }
+    }
+  },
+  "compare": {
+    "1": {
+      "1": {
+        "viki": "Premisli: kje je manj korakov, tam je bližje. Kje je več, tam je dlje.",
+        "smrkljasti": "Ne ugibaj! Primerjaj števili. Manjše pomeni bližje.",
+        "kamikazi": "Predstavljaj si, da koraka štejeta dva zmaja. Kdo prej pride do cilja?"
+      },
+      "2": {
+        "viki": "Primerjajva števili skupaj.",
+        "smrkljasti": "Brezzobi ti pokaže, kako primerja prave zmajske poti.",
+        "kamikazi": "Poglej števili od blizu, eno ob drugem."
+      }
+    },
+    "2": {
+      "1": {
+        "viki": "Najprej primerjaj desetice. Šele če so enake, poglej enice.",
+        "smrkljasti": "Večja desetica zmaga! Če sta enaki, odločijo enice.",
+        "kamikazi": "Desetice so veliki skoki, enice majhni. Najprej primerjaj velike."
+      },
+      "2": {
+        "viki": "Primerjajva desetice in enice, eno za drugo.",
+        "smrkljasti": "Tako preverijo pot pravi zmajski jezdeci.",
+        "kamikazi": "Razstaviva števili in ju primerjajva po delih."
+      }
+    },
+    "3": {
+      "1": {
+        "viki": "Poišči vzorec: za koliko se poveča vsako število?",
+        "smrkljasti": "Skoki so vedno enako dolgi. Za koliko skoči Brezzobi?",
+        "kamikazi": "Preštej razliko med dvema sosednjima številoma. Potem skoči še enkrat."
+      },
+      "2": {
+        "viki": "Poiščiva vzorec skupaj.",
+        "smrkljasti": "Brezzobi ti pokaže, kako dolgi so njegovi skoki.",
+        "kamikazi": "Sledi skokom, enemu za drugim."
+      }
+    },
+    "4": {
+      "1": {
+        "viki": "Najprej ugotovi korak med sosednjima številoma. Potem dopolni praznino.",
+        "smrkljasti": "Ne obupaj! Poglej število pred praznim mestom in skoči za en korak.",
+        "kamikazi": "Pazi, pot lahko gre tudi navzdol. Poglej, ali se števila večajo ali manjšajo."
+      },
+      "2": {
+        "viki": "Poiščiva korak in dopolniva manjkajoče število.",
+        "smrkljasti": "Tudi zemljevid ima pravila. Poglej, katera.",
+        "kamikazi": "Sledi poti od začetka do praznega mesta."
+      }
+    }
+  },
+  "muldiv": {
+    "1": {
+      "1": {
+        "viki": "Preštej ribe v vsaki skupini, nato preštej vse skupaj.",
+        "smrkljasti": "Počasi in natančno! Skupino za skupino.",
+        "kamikazi": "Poskusi šteti po skupinah: najprej eno, potem naslednjo."
+      },
+      "2": {
+        "viki": "Preštejva skupine skupaj.",
+        "smrkljasti": "Brezzobi ti pokaže, kako šteje lačen zmaj.",
+        "kamikazi": "Poglej, kako se skupine seštejejo."
+      }
+    },
+    "2": {
+      "1": {
+        "viki": "Vsak zmaj dobi enako. Seštevaj isto število tolikokrat, kolikor je zmajev.",
+        "smrkljasti": "Po dve, po pet ali po deset: štej v skokih!",
+        "kamikazi": "Štej v skokih, kot po kamnih čez potok: po 2, po 5 ali po 10."
+      },
+      "2": {
+        "viki": "Seštejva enake skupine.",
+        "smrkljasti": "Tako štejejo ribiči na akademiji. Poglej.",
+        "kamikazi": "Skoki po kamnih te pripeljejo do cilja."
+      }
+    },
+    "3": {
+      "1": {
+        "viki": "Seštevaj po 3 ali po 4, tolikokrat, kolikor je skupin.",
+        "smrkljasti": "Ta je trša, a ti zmoreš. Štej v skokih po 3 ali po 4.",
+        "kamikazi": "Če poznaš 2-krat, ga podvoji in dobiš 4-krat. Poskusi!"
+      },
+      "2": {
+        "viki": "Seštejva skupine eno za drugo.",
+        "smrkljasti": "Brezzobi pokaže, kako se to dela brez napake.",
+        "kamikazi": "Sestaviva skupine kot kocke."
+      }
+    },
+    "4": {
+      "1": {
+        "viki": "Razdeli ribe po eno vsakemu zmaju, dokler jih ne zmanjka.",
+        "smrkljasti": "Pravično! Vsak zmaj mora dobiti enako. Deli po eno.",
+        "kamikazi": "Pomisli obratno: koliko krat število zmajev da vse ribe?"
+      },
+      "2": {
+        "viki": "Razdeliva ribe skupaj, po eno vsakemu zmaju.",
+        "smrkljasti": "Tako delijo hrano na pravi zmajski gostiji.",
+        "kamikazi": "Poglej, kako ribe najdejo pot do vsakega zmaja."
+      }
+    }
+  }
+}

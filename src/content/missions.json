@@ -1,0 +1,108 @@
+{
+  "islands": {
+    "island-addsub": {
+      "name": "Otok zakladov",
+      "game": "Zakladnica"
+    },
+    "island-compare": {
+      "name": "Meglena obala",
+      "game": "Zmajski zemljevid"
+    },
+    "island-muldiv": {
+      "name": "Ribiški zaliv",
+      "game": "Zmajska hrana"
+    },
+    "bonus-addsub": {
+      "name": "Zlata jama",
+      "game": "Zakladnica: izziv"
+    },
+    "bonus-compare": {
+      "name": "Otok tisočerih poti",
+      "game": "Zmajski zemljevid: izziv"
+    },
+    "bonus-muldiv": {
+      "name": "Velika gostija",
+      "game": "Zmajska hrana: izziv"
+    }
+  },
+  "missions": {
+    "addsub": [
+      {
+        "id": "addsub-pirati",
+        "intro": "Pirati so prepluli morje in iščejo staro skrinjo. Pomagaj Brezzobemu prešteti zaklad, preden pridejo.",
+        "outro": "Zaklad je preštet in varno skrit. Pirati so odpluli praznih rok!",
+        "bonus": false
+      },
+      {
+        "id": "addsub-vihar",
+        "intro": "Vihar je raztresel kovance po plaži. Brezzobi jih nosi nazaj v skrinjo, ti pa paziš na račun.",
+        "outro": "Vsi kovanci so spet doma. Brezzobi je ponosen nate.",
+        "bonus": false
+      },
+      {
+        "id": "addsub-sejem",
+        "intro": "Na vikinškem sejmu se menjajo kovanci. Če znaš računati, te nihče ne prelisiči.",
+        "outro": "Na sejmu so vsi računi pravilni. Trgovci kar strmijo!",
+        "bonus": false
+      },
+      {
+        "id": "addsub-jama",
+        "intro": "V Zlati jami so skrinje polne do roba. Samo najboljši računarji smejo vstopiti.",
+        "outro": "Zlata jama ti je odprla vse skrinje. Pravi mojster zakladov!",
+        "bonus": true
+      }
+    ],
+    "compare": [
+      {
+        "id": "compare-megla",
+        "intro": "Gosta megla je prekrila morje. Brezzobi mora vedeti, kateri otok je bližje, da se ne izgubi.",
+        "outro": "Megla se je razkadila in Brezzobi je varno pristal.",
+        "bonus": false
+      },
+      {
+        "id": "compare-zvezde",
+        "intro": "Ponoči zmaji letijo po številkah na zvezdah. Ugotovi, kako si sledijo.",
+        "outro": "Zvezdna pot je jasna. Brezzobi leti naravnost domov.",
+        "bonus": false
+      },
+      {
+        "id": "compare-zemljevid",
+        "intro": "Star zemljevid je raztrgan in nekaj številk manjka. Pomagaj ga sestaviti.",
+        "outro": "Zemljevid je spet cel. Pot do novih otokov je odprta.",
+        "bonus": false
+      },
+      {
+        "id": "compare-poti",
+        "intro": "Na Otoku tisočerih poti se vsaka steza razcepi. Prava pot sledi številkam.",
+        "outro": "Prava pot skozi labirint je najdena. Še zmaji so presenečeni!",
+        "bonus": true
+      }
+    ],
+    "muldiv": [
+      {
+        "id": "muldiv-zajtrk",
+        "intro": "Zmaji so lačni in čakajo na zajtrk. Vsak mora dobiti enako rib, sicer bo prepir.",
+        "outro": "Vsi zmaji so siti in zadovoljni. Brezzobi je dobil še eno ribo za posladek.",
+        "bonus": false
+      },
+      {
+        "id": "muldiv-ribolov",
+        "intro": "Ribiči so se vrnili s polnimi mrežami. Koliko rib bo dovolj za vso jato?",
+        "outro": "Rib je ravno prav. Jata je pripravljena na dolg let.",
+        "bonus": false
+      },
+      {
+        "id": "muldiv-gostija",
+        "intro": "Na akademiji pripravljajo gostijo za zmaje. Pomagaj pravično razdeliti hrano.",
+        "outro": "Gostija je uspela. Zmaji so od veselja zabruhali iskrice.",
+        "bonus": false
+      },
+      {
+        "id": "muldiv-velika",
+        "intro": "Velika gostija je prišla! Toliko zmajev še nikoli ni sedelo za isto mizo.",
+        "outro": "Vsak zmaj je dobil svoj delež. To je bila najboljša gostija na akademiji.",
+        "bonus": true
+      }
+    ]
+  }
+}
