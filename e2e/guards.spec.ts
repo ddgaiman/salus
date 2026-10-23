@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { seed } from './helpers';
+import { playMission, seed } from './helpers';
 
 const todayIso = () => {
   const d = new Date();
@@ -70,4 +70,19 @@ test('every button has an accessible name and a 56 point target', async ({ page 
     expect(box!.width).toBeGreaterThanOrEqual(56);
     expect(box!.height).toBeGreaterThanOrEqual(56);
   }
+});
+
+test('a finished mission waits on its outcome screen and never starts the next one', async ({
+  page,
+}) => {
+  await seed(page, {});
+  await page.goto('/');
+  await page.getByRole('button', { name: 'Začni' }).click();
+  await page.locator('.map-island.is-open').first().click();
+  await playMission(page);
+  await page.waitForTimeout(3000);
+  await expect(page.getByRole('heading', { name: 'Misija opravljena!' })).toBeVisible();
+  await expect(
+    page.getByRole('main', { name: 'Misija opravljena!' }).getByRole('button'),
+  ).toHaveCount(2);
 });

@@ -30,7 +30,9 @@ function ParentGate({ onPass, onClose }: { onPass(): void; onClose(): void }) {
         <span />
         <h1 className="title title-small">{ui.parent.gateTitle}</h1>
         <button type="button" className="icon-btn" aria-label={ui.parent.close} onClick={onClose}>
-          ×
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" strokeWidth="3" />
+          </svg>
         </button>
       </header>
       <p className="lead">{format(ui.parent.gateQuestion, { a, b })}</p>
@@ -70,7 +72,9 @@ function ParentCorner({ onClose, onChangeHero }: { onClose(): void; onChangeHero
         <span />
         <h1 className="title title-small">{ui.parent.title}</h1>
         <button type="button" className="icon-btn" aria-label={ui.parent.close} onClick={onClose}>
-          ×
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" strokeWidth="3" />
+          </svg>
         </button>
       </header>
 
