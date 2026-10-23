@@ -44,7 +44,10 @@
     "hole": "Prazno mesto",
     "try": "Poskusim",
     "solutionTry": "Zdaj vpiši odgovor sam.",
-    "review": "Ponovimo"
+    "review": "Ponovimo",
+    "next": "Naprej",
+    "finish": "Konec misije",
+    "explainTitle": "Poglejva skupaj"
   },
   "feedback": {
     "firstTry": {
@@ -68,7 +71,8 @@
     "newIsland": "Nov otok je odklenjen",
     "grew": "Brezzobi je zrasel",
     "bookEntry": "V knjigo zmajev",
-    "toMap": "Na zemljevid"
+    "toMap": "Na zemljevid",
+    "toBreak": "K Brezzobemu"
   },
   "break": {
     "title": "Se vidiva jutri",
